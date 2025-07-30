@@ -3,3 +3,7 @@ langs: ['ru', 'en']
 docs-viewer:
   themes: ['dark']
   langs: ['en','ru']
+
+resources:
+  style:
+    - _assets/style/custom.css
