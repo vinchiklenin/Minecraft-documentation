@@ -1,10 +1,65 @@
-title: Шаблон документации
-links:
-  - title: О проекте
-    href: about.md
-  - title: Страница Diplodoc на главной странице
-    href: page.md
-  - title: Структура YFM на главной странице
-    href: anotherpage.md
-  - title: Подраздел на главной странице
-    href: sub-section/
+blocks:
+  - type: header-block
+    title: "Утюг весны"
+    description: "Minecraft server"
+    background:
+      fullWidth: true
+      fullWidthMedia: true
+      image: ../_images/landing.png
+
+  - type: card-layout-block
+    colSizes:
+      all: 12
+      lg: 12
+      md: 12
+      sm: 12
+      xl: 4
+
+    title: ''
+    description: ''
+    children:
+      - type: basic-card
+        title: |
+          Подключение
+        text: |
+          Как запустить сервер. IP-адрес и порт сервера
+
+          [Подключение](./about.md)
+
+
+
+
+
+
+
+  - type: slider-block
+    title:
+      text: Slider
+      url: https://example.com
+    children:
+      - type: basic-card
+        url: https://example.com
+        title: Lorem ipsum dolor sit amet
+        text: Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+        icon: /page-constructor/story-assets/icon_1_light.svg
+      - type: basic-card
+        url: https://example.com
+        title: Lorem ipsum dolor sit amet
+        text: Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+        icon: /page-constructor/story-assets/icon_2_light.svg
+      - type: basic-card
+        url: https://example.com
+        title: Lorem ipsum dolor sit amet
+        text: Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+        icon: /page-constructor/story-assets/icon_3_light.svg
+      - type: basic-card
+        url: https://example.com
+        title: Lorem ipsum dolor sit amet
+        text: Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+        icon: /page-constructor/story-assets/icon_4_light.svg
+      - type: basic-card
+        url: https://example.com
+        title: Lorem ipsum dolor sit amet
+        text: Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+        icon: /page-constructor/story-assets/icon_1_light.svg
+animated: false
