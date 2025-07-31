@@ -5,7 +5,7 @@ blocks:
     background:
       fullWidth: true
       fullWidthMedia: true
-      image: ../_images/landing.png
+      image: _images/landing.png
 
   - type: card-layout-block
     colSizes:
