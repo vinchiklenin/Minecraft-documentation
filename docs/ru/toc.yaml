@@ -1,8 +1,10 @@
-title: Шаблон проекта документации
+title: Minecraft server by Утюг весны
 href: index.yaml
 items: 
   - name: О проекте
     href: about.md
+  - name: Подключение
+    href: connection.md
   - name: Дополнительная страница
     href: page.md
   - name: Другая страница
