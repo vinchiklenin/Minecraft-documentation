@@ -5,9 +5,9 @@ docs-viewer:
   langs: ['en','ru']
 
   logo-options: # Логотип в левом верхнем углу
-    url: https://yandex.ru/archive
-    src: ./_assets/MineServerLogo.svg
-    src-dark: ./_assets/MineServerLogo.svg
+    url: https://info.vinchiklenin.ru
+    src: https://storage.yandexcloud.net/minecraft/MineServerLogo.svg
+    src-dark: https://storage.yandexcloud.net/minecraft/MineServerLogo.svg
     img-has:
       height: 30px #тут советую ставить 30 px +-
       offset: true
