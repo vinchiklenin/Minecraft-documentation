@@ -13,3 +13,5 @@ items:
     include:
       path: sub-section/toc.yaml
       mode: link
+  - name: История
+    href: history.md
