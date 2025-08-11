@@ -9,21 +9,21 @@ body {
 
 @font-face {
     font-family: 'NT Sakharov';
-    src: url('../fonts/NTSakharov-Hairline.ttf') format('truetype'); /* Safari, Android, iOS */
+    src: url('/_assets/fonts/NTSakharov-Hairline.ttf') format('truetype'); /* Safari, Android, iOS */
              font-style: normal;
     font-weight: 1;
     text-rendering: optimizeLegibility
 }
 @font-face {
     font-family: 'NT Sakharov';
-    src: url('../fonts/NTSakharov-Thin.ttf') format('truetype'); /* Safari, Android, iOS */
+    src: url('/_assets/fonts/NTSakharov-Thin.ttf') format('truetype'); /* Safari, Android, iOS */
              font-style: normal;
     font-weight: 100;
     text-rendering: optimizeLegibility
 }
 @font-face {
     font-family: 'NT Sakharov';
-    src: url('../fonts/NTSakharov-ExtraLight.ttf') format('truetype'); /* Safari, Android, iOS */
+    src: url('/_assets/fonts/NTSakharov-ExtraLight.ttf') format('truetype'); /* Safari, Android, iOS */
              font-style: normal;
     font-weight: 200;
     text-rendering: optimizeLegibility
@@ -31,7 +31,7 @@ body {
 
 @font-face {
     font-family: 'NT Sakharov';
-    src: url('../fonts/NTSakharov-Light.ttf') format('truetype'); /* Safari, Android, iOS */
+    src: url('/_assets/fonts/NTSakharov-Light.ttf') format('truetype'); /* Safari, Android, iOS */
              font-style: normal;
     font-weight: 300;
     text-rendering: optimizeLegibility
@@ -39,7 +39,7 @@ body {
 
 @font-face {
     font-family: 'NT Sakharov';
-    src: url('../fonts/NTSakharov-Regular.ttf') format('truetype'); /* Safari, Android, iOS */
+    src: url('/_assets/fonts/NTSakharov-Regular.ttf') format('truetype'); /* Safari, Android, iOS */
              font-style: normal;
     font-weight: 400;
     text-rendering: optimizeLegibility;
@@ -47,7 +47,7 @@ body {
 
 @font-face {
     font-family: 'NT Sakharov';
-    src: url('../fonts/NTSakharov-Medium.ttf') format('truetype'); /* Safari, Android, iOS */
+    src: url('/_assets/fonts/NTSakharov-Medium.ttf') format('truetype'); /* Safari, Android, iOS */
              font-style: normal;
     font-weight: 500;
     text-rendering: optimizeLegibility;
@@ -55,7 +55,7 @@ body {
 
 @font-face {
     font-family: 'NT Sakharov';
-    src: url('../fonts/NTSakharov-Medium.ttf') format('truetype'); /* Safari, Android, iOS */
+    src: url('/_assets/fonts/NTSakharov-Medium.ttf') format('truetype'); /* Safari, Android, iOS */
              font-style: normal;
     font-weight: 600;
     text-rendering: optimizeLegibility;
@@ -63,7 +63,7 @@ body {
 
 @font-face {
     font-family: 'NT Sakharov';
-    src: url('../fonts/NTSakharov-Bold.ttf') format('truetype'); /* Safari, Android, iOS */
+    src: url('/_assets/fonts/NTSakharov-Bold.ttf') format('truetype'); /* Safari, Android, iOS */
              font-style: normal;
     font-weight: 700;
     text-rendering: optimizeLegibility;
@@ -71,14 +71,14 @@ body {
 
 @font-face {
     font-family: 'NT Sakharov';
-    src: url('../fonts/NTSakharov-ExtraBold.ttf') format('truetype'); /* Safari, Android, iOS */
+    src: url('/_assets/fonts/NTSakharov-ExtraBold.ttf') format('truetype'); /* Safari, Android, iOS */
              font-style: normal;
     font-weight: 800;
     text-rendering: optimizeLegibility;
 }
 @font-face {
     font-family: 'NT Sakharov';
-    src: url('../fonts/NTSakharov-Black.ttf') format('truetype'); /* Safari, Android, iOS */
+    src: url('/_assets/fonts/NTSakharov-Black.ttf') format('truetype'); /* Safari, Android, iOS */
              font-style: normal;
     font-weight: 900;
     text-rendering: optimizeLegibility;
