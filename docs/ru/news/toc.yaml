@@ -1,0 +1,5 @@
+
+href: index.yaml
+items:
+  - name: Экземпляр новости
+    href: example.md
