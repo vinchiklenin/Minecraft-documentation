@@ -14,7 +14,7 @@ items:
     include:
       path: sub-section/toc.yaml
       mode: link
-- name: Новости
+  - name: Новости
     include:
       path: news/toc.yaml
       mode: link
