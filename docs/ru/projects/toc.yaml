@@ -1,6 +1,7 @@
 title: Проекты
 href: index.yaml
-- name: Архив проектов
+items: 
+  - name: Архив проектов
     include:
       path: archive/toc.yaml
       mode: link
