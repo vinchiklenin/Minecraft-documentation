@@ -95,7 +95,7 @@ body {
     --g-font-family-monospace: 'IBM Plex Mono', 'Menlo', 'Monaco', 'Consolas', 'Ubuntu Mono', 'Liberation Mono', 'DejaVu Sans Mono', 'Courier New', 'Courier', monospace;
     --g-font-family-дополнительный-шрифт-1: '';
     
-    --g-color-private-brand-50: rgba(69,181,112,0.1);
+    --g-color-private-brand-50: #0c0c0c;
         --g-color-private-brand-100: rgba(69,181,112,0.15);
         --g-color-private-brand-150: rgba(69,181,112,0.2);
         --g-color-private-brand-200: rgba(69,181,112,0.3);
@@ -181,12 +181,12 @@ body {
         --g-color-private-brand-250-solid: rgb(40,49,44);
         --g-color-private-brand-200-solid: rgb(39,44,42);
         --g-color-private-brand-150-solid: rgb(37,39,39);
-        --g-color-private-brand-100-solid: rgb(36,36,38);
-        --g-color-private-brand-50-solid: rgb(36,34,37);
+        --g-color-private-brand-100-solid: #0c0c0c
+        --g-color-private-brand-50-solid: #0c0c0c
         
         
         --g-color-base-brand: rgb(49,78,60);
-        --g-color-base-background: rgb(34,29,34);
+        --g-color-base-background: #0c0c0c;
         --g-color-base-brand-hover: var(--g-color-private-brand-650-solid);
         --g-color-base-selection: var(--g-color-private-brand-150);
         --g-color-base-selection-hover: var(--g-color-private-brand-200);
