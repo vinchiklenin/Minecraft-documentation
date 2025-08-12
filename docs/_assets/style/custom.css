@@ -7,8 +7,6 @@ body {
     font-feature-settings: "ss01" 1, "ss02" 1, "ss03" 1, "ss04" 1, "kern" 1 !important;
 }
 
-
-
 }
 @font-face {
     font-family: 'NT Sakharov';
@@ -129,7 +127,7 @@ body {
     
     font-family: 'NT Sakharov', sans-serif !important;
     font-feature-settings: "ss01" 1, "ss02" 1, "ss03" 1, "ss04" 1, "kern" 1 !important;
-    --g-font-family-sans: 'NT Sakarov', 'Arial', 'Roboto', sans-serif;
+    --g-font-family-sans: 'NT Sakarov', sans-serif;
     --g-font-family-monospace: 'IBM Plex Mono', 'Menlo', 'Monaco', 'Consolas', 'Ubuntu Mono', 'Liberation Mono', 'DejaVu Sans Mono', 'Courier New', 'Courier', monospace;
     --g-font-family-дополнительный-шрифт-1: '';
     
