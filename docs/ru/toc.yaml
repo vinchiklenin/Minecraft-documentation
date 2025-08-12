@@ -6,7 +6,7 @@ items:
   - name: Подключение
     href: connection.md
   - name: Координаты
-    href: shortcut.md
+    href: shortcuts.md
   - name: Дополнительная страница
     href: page.md
   - name: Другая страница
