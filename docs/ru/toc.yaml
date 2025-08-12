@@ -7,7 +7,13 @@ items:
     href: connection.md
   - name: Координаты
     href: shortcuts.md
-  - name: Дополнительная страница
+  - name: Новости
+    include:
+      path: news/toc.yaml
+      mode: link
+  - name: История
+    href: history.md
+  - name: Дополнительная страница Не сделано ниже
     href: page.md
   - name: Другая страница
     href: anotherpage.md
@@ -15,10 +21,3 @@ items:
     include:
       path: sub-section/toc.yaml
       mode: link
-  - name: Новости
-    include:
-      path: news/toc.yaml
-      mode: link
-
-  - name: История
-    href: history.md
