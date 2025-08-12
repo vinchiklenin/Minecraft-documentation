@@ -1,5 +1,5 @@
 # История Сервера
-![alt-текст](_assets/images/cover_sample_1.jpg "текст_подсказки"){width=100 height=100}
+![alt-текст](../_assets/images/cover_sample_1.jpg "текст_подсказки"){width=100 height=100}
 тут будет история
 #### -
 
