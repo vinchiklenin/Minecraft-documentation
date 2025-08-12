@@ -5,12 +5,8 @@ items:
     href: about.md
   - name: Подключение
     href: connection.md
-<<<<<<< Updated upstream
-    
-=======
   - name: Координаты
     href: shortcut.md
->>>>>>> Stashed changes
   - name: Дополнительная страница
     href: page.md
   - name: Другая страница
