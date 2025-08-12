@@ -1,8 +1,8 @@
-langs: ['ru', 'en']
+langs: ['ru']
 
 docs-viewer:
   themes: ['dark']
-  langs: ['en','ru']
+  langs: ['ru']
 
   logo-options: # Логотип в левом верхнем углу
     url: https://info.vinchiklenin.ru

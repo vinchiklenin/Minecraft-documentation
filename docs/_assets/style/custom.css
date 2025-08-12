@@ -7,7 +7,6 @@ body {
     font-feature-settings: "ss01" 1, "ss02" 1, "ss03" 1, "ss04" 1, "kern" 1 !important;
 }
 
-}
 @font-face {
     font-family: 'NT Sakharov';
     src: url('https://vinchiklenin.ru/fonts/NTSakharov-ExtraLight.ttf') format('truetype'); /* Safari, Android, iOS */
@@ -128,8 +127,7 @@ body {
     font-family: 'NT Sakharov', sans-serif !important;
     font-feature-settings: "ss01" 1, "ss02" 1, "ss03" 1, "ss04" 1, "kern" 1 !important;
     --g-font-family-sans: 'NT Sakarov', sans-serif;
-    --g-font-family-monospace: 'IBM Plex Mono', 'Menlo', 'Monaco', 'Consolas', 'Ubuntu Mono', 'Liberation Mono', 'DejaVu Sans Mono', 'Courier New', 'Courier', monospace;
-    --g-font-family-дополнительный-шрифт-1: '';
+    --g-font-family-monospace: 'NT Sakarov', 'IBM Plex Mono', 'Menlo', 'Monaco', 'Consolas', 'Ubuntu Mono', 'Liberation Mono', 'DejaVu Sans Mono', 'Courier New', 'Courier', monospace;
     
     --g-color-private-brand-50: rgba(49,78,60,0.1);
         --g-color-private-brand-100: rgba(49,78,60,0.15);
@@ -159,8 +157,8 @@ body {
         --g-color-private-brand-250-solid: rgb(40,49,44);
         --g-color-private-brand-200-solid: rgb(39,44,42);
         --g-color-private-brand-150-solid: rgb(37,39,39);
-        --g-color-private-brand-100-solid: #0c0c0c
-        --g-color-private-brand-50-solid: #0c0c0c
+        --g-color-private-brand-100-solid: #0c0c0c;
+        --g-color-private-brand-50-solid: #0c0c0c;
         
         
         --g-color-base-brand: rgb(49,78,60);
