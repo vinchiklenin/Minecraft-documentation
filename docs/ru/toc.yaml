@@ -15,8 +15,8 @@ items:
     href: history.md
   - name: Дополнительная страница Не сделано ниже
     href: page.md
-  - name: Другая страница
-    href: anotherpage.md
+  - name: Управление ubuntu
+    href: ubuntu.md
   - name: Проекты
     include:
       path: projects/toc.yaml
