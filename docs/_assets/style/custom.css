@@ -7,6 +7,16 @@ body {
     font-feature-settings: "ss01" 1, "ss02" 1, "ss03" 1, "ss04" 1, "kern" 1 !important;
 }
 
+p {
+    font-family: 'NT Sakharov', sans-serif !important;
+    font-feature-settings: "ss01" 1, "ss02" 1, "ss03" 1, "ss04" 1, "kern" 1 !important;
+}
+
+code {
+    font-family: 'NT Sakharov', sans-serif !important;
+    font-feature-settings: "ss01" 1, "ss02" 1, "ss03" 1, "ss04" 1, "kern" 1 !important;
+}
+
 @font-face {
     font-family: 'NT Sakharov';
     src: url('https://vinchiklenin.ru/fonts/NTSakharov-ExtraLight.ttf') format('truetype'); /* Safari, Android, iOS */
