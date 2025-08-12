@@ -7,23 +7,12 @@ body {
     font-feature-settings: "ss01" 1, "ss02" 1, "ss03" 1, "ss04" 1, "kern" 1 !important;
 }
 
-@font-face {
-    font-family: 'NT Sakharov';
-    src: url('_assets/fonts/NTSakharov-Hairline.ttf') format('truetype'); /* Safari, Android, iOS */
-             font-style: normal;
-    font-weight: 1;
-    text-rendering: optimizeLegibility
+
+
 }
 @font-face {
     font-family: 'NT Sakharov';
-    src: url('_assets/fonts/NTSakharov-Thin.ttf') format('truetype'); /* Safari, Android, iOS */
-             font-style: normal;
-    font-weight: 100;
-    text-rendering: optimizeLegibility
-}
-@font-face {
-    font-family: 'NT Sakharov';
-    src: url('_assets/fonts/NTSakharov-ExtraLight.ttf') format('truetype'); /* Safari, Android, iOS */
+    src: url('https://vinchiklenin.ru/fonts/NTSakharov-ExtraLight.ttf') format('truetype'); /* Safari, Android, iOS */
              font-style: normal;
     font-weight: 200;
     text-rendering: optimizeLegibility
@@ -47,7 +36,7 @@ body {
 
 @font-face {
     font-family: 'NT Sakharov';
-    src: url('_assets/fonts/NTSakharov-Medium.ttf') format('truetype'); /* Safari, Android, iOS */
+    src: url('https://vinchiklenin.ru/fonts/NTSakharov-Medium.ttf') format('truetype'); /* Safari, Android, iOS */
              font-style: normal;
     font-weight: 500;
     text-rendering: optimizeLegibility;
@@ -55,7 +44,7 @@ body {
 
 @font-face {
     font-family: 'NT Sakharov';
-    src: url('_assets/fonts/NTSakharov-Medium.ttf') format('truetype'); /* Safari, Android, iOS */
+    src: url('https://vinchiklenin.ru/fonts/NTSakharov-Medium.ttf') format('truetype'); /* Safari, Android, iOS */
              font-style: normal;
     font-weight: 600;
     text-rendering: optimizeLegibility;
@@ -63,26 +52,12 @@ body {
 
 @font-face {
     font-family: 'NT Sakharov';
-    src: url('_assets/fonts/NTSakharov-Bold.ttf') format('truetype'); /* Safari, Android, iOS */
+    src: url('https://vinchiklenin.ru/fonts/NTSakharov-Bold.ttf') format('truetype'); /* Safari, Android, iOS */
              font-style: normal;
     font-weight: 700;
     text-rendering: optimizeLegibility;
 }
 
-@font-face {
-    font-family: 'NT Sakharov';
-    src: url('_assets/fonts/NTSakharov-ExtraBold.ttf') format('truetype'); /* Safari, Android, iOS */
-             font-style: normal;
-    font-weight: 800;
-    text-rendering: optimizeLegibility;
-}
-@font-face {
-    font-family: 'NT Sakharov';
-    src: url('_assets/fonts/NTSakharov-Black.ttf') format('truetype'); /* Safari, Android, iOS */
-             font-style: normal;
-    font-weight: 900;
-    text-rendering: optimizeLegibility;
-}
 
 .g-root_theme_light {
     --g-border-radius-xs: 0px;
@@ -91,7 +66,10 @@ body {
     --g-border-radius-l: 0px;
     --g-border-radius-xl: 0px;
     
-    --g-font-family-sans: 'NT Sakarov';
+    font-family: 'NT Sakharov', sans-serif !important;
+    font-feature-settings: "ss01" 1, "ss02" 1, "ss03" 1, "ss04" 1, "kern" 1 !important;
+    --g-font-family-sans: 'NT Sakarov', 'Arial', 'Roboto', sans-serif;
+
     --g-font-family-monospace: 'IBM Plex Mono', 'Menlo', 'Monaco', 'Consolas', 'Ubuntu Mono', 'Liberation Mono', 'DejaVu Sans Mono', 'Courier New', 'Courier', monospace;
     --g-font-family-дополнительный-шрифт-1: '';
     
@@ -149,7 +127,9 @@ body {
     --g-border-radius-l: 0px;
     --g-border-radius-xl: 0px;
     
-    --g-font-family-sans: 'NT Sakarov';
+    font-family: 'NT Sakharov', sans-serif !important;
+    font-feature-settings: "ss01" 1, "ss02" 1, "ss03" 1, "ss04" 1, "kern" 1 !important;
+    --g-font-family-sans: 'NT Sakarov', 'Arial', 'Roboto', sans-serif;
     --g-font-family-monospace: 'IBM Plex Mono', 'Menlo', 'Monaco', 'Consolas', 'Ubuntu Mono', 'Liberation Mono', 'DejaVu Sans Mono', 'Courier New', 'Courier', monospace;
     --g-font-family-дополнительный-шрифт-1: '';
     
