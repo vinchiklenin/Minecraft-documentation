@@ -17,6 +17,46 @@ code {
     font-feature-settings: "ss01" 1, "ss02" 1, "ss03" 1, "ss04" 1, "kern" 1 !important;
 }
 
+h1 {
+    font-family: 'NT Sakharov', sans-serif !important;
+    font-feature-settings: "ss01" 1, "ss02" 1, "ss03" 1, "ss04" 1, "kern" 1 !important;
+}
+
+h2 {
+    font-family: 'NT Sakharov', sans-serif !important;
+    font-feature-settings: "ss01" 1, "ss02" 1, "ss03" 1, "ss04" 1, "kern" 1 !important;
+}
+
+h3 {
+    font-family: 'NT Sakharov', sans-serif !important;
+    font-feature-settings: "ss01" 1, "ss02" 1, "ss03" 1, "ss04" 1, "kern" 1 !important;
+}
+
+h4 {
+    font-family: 'NT Sakharov', sans-serif !important;
+    font-feature-settings: "ss01" 1, "ss02" 1, "ss03" 1, "ss04" 1, "kern" 1 !important;
+}
+
+h5 {
+    font-family: 'NT Sakharov', sans-serif !important;
+    font-feature-settings: "ss01" 1, "ss02" 1, "ss03" 1, "ss04" 1, "kern" 1 !important;
+}
+
+h6 {
+    font-family: 'NT Sakharov', sans-serif !important;
+    font-feature-settings: "ss01" 1, "ss02" 1, "ss03" 1, "ss04" 1, "kern" 1 !important;
+}
+
+th {
+    font-family: 'NT Sakharov', sans-serif !important;
+    font-feature-settings: "ss01" 1, "ss02" 1, "ss03" 1, "ss04" 1, "kern" 1 !important;
+}
+
+thead {
+    font-family: 'NT Sakharov', sans-serif !important;
+    font-feature-settings: "ss01" 1, "ss02" 1, "ss03" 1, "ss04" 1, "kern" 1 !important;
+}
+
 @font-face {
     font-family: 'NT Sakharov';
     src: url('https://vinchiklenin.ru/fonts/NTSakharov-ExtraLight.ttf') format('truetype'); /* Safari, Android, iOS */
@@ -139,16 +179,16 @@ code {
     --g-font-family-sans: 'NT Sakarov', sans-serif;
     --g-font-family-monospace: 'NT Sakarov', 'IBM Plex Mono', 'Menlo', 'Monaco', 'Consolas', 'Ubuntu Mono', 'Liberation Mono', 'DejaVu Sans Mono', 'Courier New', 'Courier', monospace;
     
-    --g-color-private-brand-50: rgba(49,78,60,0.1);
-        --g-color-private-brand-100: rgba(49,78,60,0.15);
-        --g-color-private-brand-150: rgba(49,78,60,0.2);
-        --g-color-private-brand-200: rgba(49,78,60,0.3);
-        --g-color-private-brand-250: rgba(49,78,60,0.4);
-        --g-color-private-brand-300: rgba(49,78,60,0.5);
-        --g-color-private-brand-350: rgba(49,78,60,0.6);
-        --g-color-private-brand-400: rgba(49,78,60,0.7);
-        --g-color-private-brand-450: rgba(49,78,60,0.8);
-        --g-color-private-brand-500: rgba(49,78,60,0.9);
+    --g-color-private-brand-50: rgba(50,230,130,0.1);
+        --g-color-private-brand-100: rgba(50,230,130,0.15);
+        --g-color-private-brand-150: rgba(50,230,130,0.2);
+        --g-color-private-brand-200: rgba(50,230,130,0.3);
+        --g-color-private-brand-250: rgba(50,230,130,0.4);
+        --g-color-private-brand-300: rgba(50,230,130,0.5);
+        --g-color-private-brand-350: rgba(50,230,130,0.6);
+        --g-color-private-brand-400: rgba(50,230,130,0.7);
+        --g-color-private-brand-450: rgba(50,230,130,0.8);
+        --g-color-private-brand-500: rgba(50,230,130,0.9);
         --g-color-private-brand-550-solid: rgb(49,78,60);
         --g-color-private-brand-1000-solid: rgb(224,228,226);
         --g-color-private-brand-950-solid: rgb(214,220,216);
@@ -171,7 +211,7 @@ code {
         --g-color-private-brand-50-solid: #0c0c0c;
         
         
-        --g-color-base-brand: rgb(49,78,60);
+        --g-color-base-brand: #2AE881;
         --g-color-base-background: #0c0c0c;
         --g-color-base-brand-hover: var(--g-color-private-brand-650-solid);
         --g-color-base-selection: var(--g-color-private-brand-150);
