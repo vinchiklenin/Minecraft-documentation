@@ -17,7 +17,11 @@ items:
     href: page.md
   - name: Другая страница
     href: anotherpage.md
-  - name: Подраздел
+  - name: Проекты
     include:
-      path: sub-section/toc.yaml
+      path: projects/toc.yaml
+      mode: link
+  - name: Ведомства
+    include:
+      path: departments/toc.yaml
       mode: link
