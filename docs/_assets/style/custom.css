@@ -39,7 +39,7 @@ body {
 
 @font-face {
     font-family: 'NT Sakharov';
-    src: url('_assets/fonts/NTSakharov-Regular.woff') format('woff'); /* Safari, Android, iOS */
+    src: url('https://vinchiklenin.ru/fonts/NTSakharov-Regular.ttf') format('truetype'); /* Safari, Android, iOS */
              font-style: normal;
     font-weight: 400;
     text-rendering: optimizeLegibility;
