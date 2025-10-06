@@ -1,2 +1,4 @@
-title: Департаменты и ведомства
+title: Гражданский департамент
 href: index.yaml
+- name: О департаменте
+    href: cdit.md
