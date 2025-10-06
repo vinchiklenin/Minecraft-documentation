@@ -1,2 +1,4 @@
-title: Департаменты и ведомства
+title: Ресурсный департамент
 href: index.yaml
+- name: О департаменте
+    href: rdrt.md
