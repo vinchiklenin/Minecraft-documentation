@@ -1,5 +1,6 @@
 title: Департаменты и ведомства
 href: index.yaml
+items:
 - name: Гражданский департамент
     include:
       path: cdit/toc.yaml
