@@ -1,2 +1,4 @@
-title: Департаменты и ведомства
+title: Финансовый департамент
 href: index.yaml
+- name: О департаменте
+    href: fdrt.md
