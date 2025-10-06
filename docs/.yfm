@@ -5,7 +5,7 @@ docs-viewer:
   langs: ['ru']
 
   logo-options: # Логотип в левом верхнем углу
-    url: https://info.vinchiklenin.ru
+    url: https://info.minecraft.vinchiklenin.ru
     src: https://storage.yandexcloud.net/minecraft/MineServerLogo.svg
     src-dark: https://storage.yandexcloud.net/minecraft/MineServerLogo.svg
     img-has:
