@@ -1,2 +1,4 @@
-title: Департаменты и ведомства
+title: Строительный департамент
 href: index.yaml
+- name: О департаменте
+    href: ddit.md
