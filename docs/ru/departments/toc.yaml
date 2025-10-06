@@ -3,21 +3,21 @@ href: index.yaml
 items:
 - name: Гражданский департамент
     include:
-      path: cdit/toc.yaml
-      mode: link
+    path: cdit/toc.yaml
+    mode: link
 - name: Ресурсный департамент
-    include:
-      path: rdrt/toc.yaml
-      mode: link
+  include:
+    path: rdrt/toc.yaml
+    mode: link
 - name: Финансовый департамент
-    include:
-      path: fdrt/toc.yaml
-      mode: link
+  include:
+    path: fdrt/toc.yaml
+    mode: link
 - name: Строительный департамент
-    include:
-      path: ddit/toc.yaml
-      mode: link
+  include:
+    path: ddit/toc.yaml
+    mode: link
 - name: Транспортный департамент
-    include:
-      path: tdit/toc.yaml
-      mode: link
+  include:
+    path: tdit/toc.yaml
+    mode: link
