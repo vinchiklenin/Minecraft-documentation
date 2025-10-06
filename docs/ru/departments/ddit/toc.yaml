@@ -1,4 +1,5 @@
 title: Строительный департамент
 href: index.yaml
+items:
 - name: О департаменте
     href: ddit.md
