@@ -25,3 +25,13 @@ blocks:
           Как запустить сервер. IP-адрес и порт сервера
 
           [Подключение](./about.md)
+        background:
+        buttons:
+          - text: 'Начать'
+            theme: 'dark'
+            size: 'promo'
+            url: '/quickstart'
+          - text: 'GitHub'
+            theme: 'outlined'
+            size: 'promo'
+            url: 'https://github.com/diplodoc-platform'
