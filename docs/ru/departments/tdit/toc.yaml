@@ -1,2 +1,4 @@
-title: Департаменты и ведомства
+title: Транспортный департамент
 href: index.yaml
+- name: О департаменте
+    href: tdit.md
