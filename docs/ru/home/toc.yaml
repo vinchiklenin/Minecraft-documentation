@@ -1,0 +1,7 @@
+title: База Vermeer Building
+href: index.yaml
+items: 
+  - name: О базе
+    href: about.md
+  - name: Подключение
+    href: connection.md

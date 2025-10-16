@@ -13,8 +13,10 @@ items:
       mode: link
   - name: История
     href: history.md
-  - name: Дополнительная страница Не сделано ниже
-    href: page.md
+  - name: База Vermeer Building
+    include:
+      path: home/toc.yaml
+      mode: link
   - name: Управление ubuntu
     href: ubuntu.md
   - name: Проекты
