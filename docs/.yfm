@@ -1,5 +1,8 @@
 langs: ['ru']
-
+vcs: true
+authors: true
+extensions:
+  - github-vcs
 docs-viewer:
   themes: ['dark']
   langs: ['ru']
