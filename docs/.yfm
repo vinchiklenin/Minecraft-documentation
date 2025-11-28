@@ -1,8 +1,13 @@
 langs: ['ru']
 vcs: true
+mtimes: true
 authors: true
 extensions:
+  - name: mdit-plugins
+    plugins:
+    - '@diplodoc/transform/lib/plugins/checkbox'
   - github-vcs
+
 docs-viewer:
   themes: ['dark']
   langs: ['ru']
