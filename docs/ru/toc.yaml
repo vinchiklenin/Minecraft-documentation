@@ -7,6 +7,8 @@ items:
     href: connection.md
   - name: Правила
     href: rules.md
+  - name: Карта
+    href: map.md
   - name: Координаты
     href: shortcuts.md
   - name: Новости
