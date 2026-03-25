@@ -5,6 +5,8 @@ items:
     href: about.md
   - name: Подключение
     href: connection.md
+  - name: Правила
+    href: rules.md
   - name: Координаты
     href: shortcuts.md
   - name: Новости
