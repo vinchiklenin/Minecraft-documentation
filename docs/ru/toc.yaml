@@ -32,4 +32,6 @@ items:
       path: departments/toc.yaml
       mode: link
   - name: Организации
-    href: organizations.md
+    include:
+      path: organizations/toc.yaml
+      mode: link
