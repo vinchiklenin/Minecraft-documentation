@@ -1,1 +1,7 @@
-
+title: Организации
+href: index.yaml
+items:
+- name: Vins Systems B. V.
+  include:
+    path: vinx/toc.yaml
+    mode: link
