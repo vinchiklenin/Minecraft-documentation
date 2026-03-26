@@ -17,6 +17,8 @@ items:
       mode: link
   - name: История
     href: history.md
+  - name: Игроки
+    href: players.md
   - name: База Vermeer Building
     include:
       path: home/toc.yaml
