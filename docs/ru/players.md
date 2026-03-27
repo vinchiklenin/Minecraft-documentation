@@ -2,6 +2,14 @@
 
 ## vinchiklenin
 
+{% note tip "" %}
+
+. . .
+
+{% endnote %}
+
+...
+
 ## 4ELOVEK
 
 ## never
