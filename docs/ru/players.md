@@ -22,6 +22,12 @@
 
 ## lissa2
 
+{% note warning "" %}
+
+. . .
+
+{% endnote %}
+
 ## Trickster
 
 ## Ravid_Dubsteper
@@ -33,3 +39,13 @@
 ## aexmkv
 
 ## AugustDeckard
+
+## Egor
+
+{% note alert "" %}
+
+...
+
+{% endnote %}
+
+
