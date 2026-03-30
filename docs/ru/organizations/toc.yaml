@@ -9,3 +9,27 @@ items:
   include:
     path: ittc/toc.yaml
     mode: link
+- name: Центр Обслуживания Высотных Зданий
+  include:
+    path: covzd/toc.yaml
+    mode: link
+- name: Фонд резервации Фермерства
+  include:
+    path: frf/toc.yaml
+    mode: link
+- name: Экскурсионное бюро
+  include:
+    path: excursion/toc.yaml
+    mode: link
+- name: Выставочный центр
+  include:
+    path: expo/toc.yaml
+    mode: link
+- name: Гостиница Исеть
+  include:
+    path: iset/toc.yaml
+    mode: link
+- name: Почта
+  include:
+    path: post/toc.yaml
+    mode: link
