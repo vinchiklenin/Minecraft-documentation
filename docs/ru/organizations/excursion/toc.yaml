@@ -1,1 +1,5 @@
-
+title: Excursion
+href: index.yaml
+items:
+- name: Об организации
+  href: excursion.md
