@@ -1,1 +1,5 @@
-
+title: Гостиница Исеть
+href: index.yaml
+items:
+- name: Об организации
+  href: iset.md
