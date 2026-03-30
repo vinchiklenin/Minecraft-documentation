@@ -1,1 +1,5 @@
-
+title: Центр обслуживания высотных здания
+href: index.yaml
+items:
+- name: Об организации
+  href: covzd.md
