@@ -1,1 +1,5 @@
-
+title: Vins Systems
+href: index.yaml
+items:
+- name: Об организации
+  href: post.md
