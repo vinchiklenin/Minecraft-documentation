@@ -17,3 +17,31 @@
 #### Перечень тикеров:
 | Тикер | Субъект |
 |  :----:  |  :----:  |
+| ASGT | Сервер |
+|  |  |
+| CDIT | Гражданский Департамент |
+| DDIT | Строительный Департамент |
+| FDRT | Финансовый Департамент |
+| RDRT | Ресурсный Департамент |
+| TDIT | Транспортный Департамент |
+|  |  |
+| ACBM | ЦОВЗД |
+| AFRF | ФРФ, ЦРФ |
+|  |  |
+| VNDX | Vins Systems B. V. |
+| ITTC | Техническая компания |
+|  |  |
+| CLVK | 4ELOVEK |
+| NVRT | never |
+| VINX | vinchiklenin (Mister_Kat) |
+| OMND | onemonday |
+| EDDI | EduardSov |
+| TRTR | Trickster |
+| FTSL | fitsuli |
+
+
+
+
+
+
+
