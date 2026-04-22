@@ -1,1 +1,5 @@
-
+title: Активные проекты
+href: index.yaml
+items: 
+  - name: Большая Кольцевая Линия
+    href: bkl
