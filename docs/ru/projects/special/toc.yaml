@@ -1,1 +1,5 @@
-
+title: Спецпроекты
+href: index.yaml
+items: 
+  - name: Целина
+    href: celina.md
