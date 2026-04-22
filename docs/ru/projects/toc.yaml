@@ -1,11 +1,16 @@
 title: Проекты
 href: index.yaml
 items: 
-  - name: Архив проектов
+  - name: Спецпроекты
     include:
-      path: archive/toc.yaml
+      path: special/toc.yaml
       mode: link
   - name: Активные проекты
     include:
       path: active/toc.yaml
       mode: link
+  - name: Архив проектов
+    include:
+      path: archive/toc.yaml
+      mode: link
+
