@@ -5,3 +5,7 @@ items:
     include:
       path: archive/toc.yaml
       mode: link
+  - name: Активные проекты
+    include:
+      path: active/toc.yaml
+      mode: link
