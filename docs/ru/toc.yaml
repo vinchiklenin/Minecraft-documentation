@@ -27,6 +27,10 @@ items:
     include:
       path: projects/toc.yaml
       mode: link
+  - name: Правила
+    include:
+      path: rules/toc.yaml
+      mode: link
   - name: Ведомства
     include:
       path: departments/toc.yaml

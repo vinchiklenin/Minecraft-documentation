@@ -1,0 +1,12 @@
+title: Правила
+href: index.yaml
+items: 
+  - name: Навигация по правилам
+    href: navigate.md
+  - name: Уложение
+    href: code.md
+  - name: от Транспортного департамента
+    include:
+      path: transpotr/toc.yaml
+      mode: link
+
